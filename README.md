@@ -1,8 +1,8 @@
-![CI](https://github.com/Raival-e/File-Explorer/actions/workflows/android.yml/badge.svg)
-[![License](https://img.shields.io/github/license/Raival-e/File-Explorer)](https://github.com/Raival-e/File-Explorer/blob/master/LICENSE)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Raival-e/File-Explorer)
-[![Total downloads](https://img.shields.io/github/downloads/Raival-e/File-Explorer/total)](https://github.com/Raival-e/File-Explorer/releases)
-![Repository Size](https://img.shields.io/github/repo-size/Raival-e/File-Explorer)
+![CI](https://github.com/DereckySany/File-Explorer/actions/workflows/android.yml/badge.svg)
+[![License](https://img.shields.io/github/license/DereckySany/File-Explorer)](https://github.com/DereckySany/File-Explorer/blob/master/LICENSE)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/DereckySany/File-Explorer)
+[![Total downloads](https://img.shields.io/github/downloads/DereckySany/File-Explorer/total)](https://github.com/Raival-e/File-Explorer/releases)
+![Repository Size](https://img.shields.io/github/repo-size/DereckySany/File-Explorer)
 
 # File Explorer
 
